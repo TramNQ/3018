@@ -1,0 +1,19 @@
+a{
+    color: white;
+    font-weight: bold;
+    font-size: 18pt;
+    width: 60%;
+    line-height: 75px;
+    text-align: center;
+    padding-left: 10px;
+}
+
+.note{
+    margin: auto;
+    width: 350px;
+    border: 3px solid purple;
+    background-color: palevioletred;
+}
+body{
+    margin-top: 100px;
+}
